@@ -1,7 +1,7 @@
 ## Hey there, I'm Abid!
 <img align='right' src="https://analyticsforinsights.files.wordpress.com/2015/04/superman-data-scientist-graphic.jpg" width="210">
 
-- 🎓 I got **Bachelors in Telecomunication Engineering** from **COMSATS** and **Masters In Technology Managment** from **Staffordshire University**.
+- 🎓 I got **Bachelors in Telecommunication Engineering Engineering** from **COMSATS** and **Masters In Technology Management** from **Staffordshire University**.
 - 🌱 I'm currently learning from [DataCamp](https://www.datacamp.com), [Kaggle](https://www.kaggle.com/) and [Codecademy](https://www.codecademy.com/).
 - 💻 I'm looking for an **experience** in field of **Natural language processing**.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Natural language processing** domains.
