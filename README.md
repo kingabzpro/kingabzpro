@@ -5,16 +5,18 @@
 - 🌱 I'm currently learning from [DataCamp](https://www.datacamp.com), [Kaggle](https://www.kaggle.com/) and [Codecademy](https://www.codecademy.com/).
 - 💻 I'm looking for an **experience** in field of **Natural language processing**.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Natural language processing** domains.
-- 🎯 Goal (2021): **Participate** in **Data Science and Machine Learning** Competitions and to create **NLP Model "Early detection of Mentel illness"**.
+- 🎯 Goal (2021): **Participate** in **Data Science and Machine Learning** Competitions and to create **NLP Model "Early detection of Mental illness"**.
 - 📌 Scroll down to see my **Pinned Repositories**.
 ```python
 def Abid():
-  skills_with_proficiency = {'Python': 'Intermidiate', 'SQL': 'Intermidiate',
+  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate',
  'Java': 'Beginner', 'R': 'Intermidiate', 'Julia' : 'Beginner'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn',
- 'keras', 'tensorflow','tidyverse']
-  cloud_architecture = ['Azure']
-  Certified = ["Data Scientist in Python", "Data Analysis Using R", "Data Analysis using SQL"]
+ 'keras', 'tensorflow','tidyverse','scipy','huggingface','transformer','Gradient boosting']
+  AutoML= ["AutoML-supervised","AutoKeras","AutoMLJar"]
+  Cloud_architecture = ['Azure']
+  Certified = ["Data Scientist in Python", "Data Analysis Using R", "Data Analysis using SQL",
+              "Advance SQL with PostgreSQL","Natural Learning Processing","Deep Learning with NLP"]
   return ∞
 ```
 
