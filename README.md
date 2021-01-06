@@ -7,18 +7,46 @@
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Natural language processing** domains.
 - 🎯 Goal (2021): **Participate** in **Data Science and Machine Learning** Competitions and to create **NLP Model "Early detection of Mental illness"**.
 - 📌 Scroll down to see my **Pinned Repositories**.
-```python
-def Abid():
-  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate',
- 'Java': 'Beginner', 'R': 'Intermidiate', 'Julia' : 'Beginner'}
-  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn',
- 'keras', 'tensorflow','tidyverse','scipy','huggingface','transformer','Gradient boosting']
-  AutoML= ["AutoML-supervised","AutoKeras","AutoMLJar"]
-  Cloud_architecture = ['Azure']
-  Certified = ["Data Scientist in Python", "Data Analysis Using R", "Data Analysis using SQL",
-              "Advance SQL with PostgreSQL","Natural Learning Processing","Deep Learning with NLP"]
-  return ∞
-```
+
+## My Skills
+### Core Skills 
+- **Python**: Advance
+- **SQL** : Intermidiate
+- **Java**: Beginner
+- **R**: Intermidiate
+- **Julia** : Beginner
+
+### ToolKits
+- numpy 
+- pandas 
+- sklearn
+- nltk
+- matplotlib
+- seaborn
+- keras
+- tensorflow
+- tidyverse
+- scipy
+- huggingface
+- transformer
+- Gradient boosting
+
+### AutoML
+- AutoML-supervised
+- AutoKeras
+- AutoMLJar
+           
+### Cloud_architecture 
+**Microsoft Azure**
+           
+### Certified 
+1. Data Scientist in Python
+2. Data Analysis Using R
+3. Data Analysis using SQL
+4. Advance SQL with PostgreSQL
+5. Natural Learning Processing
+6. Deep Learning with NLP        
+
 
 ## Connect me on:
 - Email: abidaliawan@tutamail.com
