@@ -32,7 +32,7 @@
 
 _**Note:** Please **do not spam** on the above mentioned profiles._
 
-## Compettion Performance
+## Competition Performance
 | Competition                                                        | Rank    | Participants | Top %   | Organiser                                        | Platform   | Deadline     |
 |--------------------------------------------------------------------|---------|--------------|---------|--------------------------------------------------|------------|--------------|
 | Reboot: Box-Plots for Education                                    | 7       | 2125         | 1       |  EDUCATION RESOURCE STRATEGIES                   | DrivenData | Ongoing      |
