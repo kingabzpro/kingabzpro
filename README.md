@@ -9,43 +9,20 @@
 - 📌 Scroll down to see my **Pinned Repositories**.
 
 ## My Skills
-### Core Skills 
-- **Python**: Advance
-- **SQL** : Intermidiate
-- **Java**: Beginner
-- **R**: Intermidiate
-- **Julia** : Beginner
-
-### ToolKits
-- numpy 
-- pandas 
-- sklearn
-- nltk
-- matplotlib
-- seaborn
-- keras
-- tensorflow
-- tidyverse
-- scipy
-- huggingface
-- transformer
-- Gradient boosting
-
-### AutoML
-- AutoML-supervised
-- AutoKeras
-- AutoMLJar
-           
-### Cloud_architecture 
-**Microsoft Azure**
-           
-### Certified 
-1. Data Scientist in Python
-2. Data Analysis Using R
-3. Data Analysis using SQL
-4. Advance SQL with PostgreSQL
-5. Natural Learning Processing
-6. Deep Learning with NLP        
+| Core Skills                | ToolKits                  | AutoML            | Cloud_architecture  | Certified                   |
+|----------------------------|---------------------------|-------------------|---------------------|-----------------------------|
+| **Python**: Advance        | Numpy/Pandas              | AutoML-supervised | **Microsoft Azure** | Data Scientist in Python    |
+| **SQL**: Intermediate      | NLTK                      | AutoKeras         | **Google Cloud**    | Data Analysis Using R       |
+| **Java**: Beginner         | SKlearn                   | AutoMLJar         |                     | Data Analysis using SQL     |
+| **R**: Intermediate        | Matplotlib/Seaborn/Plotly | H2O.ai            |                     | Advance SQL with PostgreSQL |
+| **Julia**: Beginner        | TensorFlow/Keras          | Auto Sklearn      |                     | Natural Learning Processing |
+| **Bash**: Beginner         | Scipy                     | Tabnet            |                     | Deep Learning with NLP      |
+| **Git**: Beginner          | Tidyverse                 | Optuna            |                     | Tableau Data Analyst        |
+| **Tableau**: Intermediate  | HuggingFace/Transformers  | Azure ML          |                     |                             |
+| **Markdown**: Intermediate | Gradient Boosting         | Expert.ai         |                     |                             |
+| **Docker**: Beginner       | Torch/Reset/Inception V3  |                   |                     |                             |
+| **Airflow**: Beginner      | TPU/GPU                   |                   |                     |                             |
+| **Spark**: Beginner        | WebApp/Streamlit          |                   |                     |                             |  
 
 
 ## Connect me on:
