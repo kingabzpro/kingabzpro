@@ -1,5 +1,5 @@
 ## Hey there, I'm Abid!
-<img align='right' src="https://analyticsforinsights.files.wordpress.com/2015/04/superman-data-scientist-graphic.jpg" width="210">
+<img align='right' src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" width="250">
 
 - 🎓 I got **Bachelors in Telecommunication Engineering Engineering** from **COMSATS** and **Masters In Technology Management** from **Staffordshire University**.
 - 🌱 I'm currently learning from [DataCamp](https://www.datacamp.com), [Kaggle](https://www.kaggle.com/) and [Codecademy](https://www.codecademy.com/).
