@@ -62,8 +62,8 @@ _**Note:** Please **do not spam** on the above mentioned profiles._
 | RANZCR CLiP - Catheter and Line Position Challenge                 | 101     | 805          | 13      | Royal Australian & NZ College of Radiologists    | Kaggle     | Mar 15, 2021 |
 | HuBMAP - Hacking the Kidney                                        | 126     | 1015         | 13      | InnovationDigi                                   | Kaggle     | Feb 1, 2021  |
 | Human Protein Atlas - Single Cell Classification                   | 20      | 146          | 14      | Human Protein Atlas                              | Kaggle     | May 11, 2021 |
+| Rainforest Connection Species Audio Detection                      | 191     | 1154         | 17      | Rainforest Connection                            | Kaggle     | Feb 17, 2021 |
 | VinBigData Chest X-ray Abnormalities Detection                     | 113     | 626          | 19      | Vingroup Big Data Institute                      | Kaggle     | Mar 30, 2021 |
-| Rainforest Connection Species Audio Detection                      | 216     | 1140         | 19      | Rainforest Connection                            | Kaggle     | Feb 17, 2021 |
 | INGV - Volcanic Eruption Prediction                                | 118     | 620          | 20      | National Institute of Geophysics and Volcanology | Kaggle     | Jan 6, 2021  |
 | Santa 2020 - The Candy Cane Contest                                | 221     | 792          | 28      | Kaggle                                           | Kaggle     | Feb 9, 2021  |
 | AI4D iCompass Social Media Sentiment Analysis for Tunisian Arabizi | 167     | 567          | 29      | AI4D iCompass                                    | Zindi      | Mar 28,2021  |
