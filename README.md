@@ -2,7 +2,6 @@
 <img align='right' src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" width="250">
 
 - 🎓 I got **Bachelors in Telecommunication Engineering Engineering** from **COMSATS** and **Masters In Technology Management** from **Staffordshire University**.
-- 🌱 I'm currently learning from [DataCamp](https://www.datacamp.com), [Kaggle](https://www.kaggle.com/) and [Codecademy](https://www.codecademy.com/).
 - 💻 I'm looking for an **experience** in field of **Natural language processing**.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Natural language processing** domains.
 - 🎯 Goal (2021): **Participate** in **Data Science and Machine Learning** Competitions and to create **NLP Model "Early detection of Mental illness"**.
@@ -34,13 +33,7 @@ _**Note:** Please **do not spam** on the above mentioned profiles._
 
 ## Competition Performance
 
+[<img src="Competitionbutton.png" alt="Competitions" width="250">](Kaggle_Competitions_Performance.csv)[<img src="CompetitionbuttonKaggle.png" alt="Kaggle" width="250">](https://www.kaggle.com/kingabzpro)[<img src="CompetitionbuttonDD.png" alt="Kaggle" width="250">](https://www.drivendata.org/users/kingabzpro/)
 
-[![CSV](Competitionbutton.png)](Kaggle_Competitions_Performance.csv)
+[<img src="Devpost.png" alt="Kaggle" width="250">](https://devpost.com/kingabzpro?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)[<img src="Zindi.png" alt="Kaggle" width="250">](https://zindi.africa/users/kingabzpro)
 
-[![Kaggle](CompetitionbuttonKaggle.png)](https://www.kaggle.com/kingabzpro)
-
-[![DD](CompetitionbuttonDD.png)](https://www.drivendata.org/users/kingabzpro/)
-
-[![DD](Devpost.png)](https://devpost.com/kingabzpro?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-
-[![DD](Zindi.png)](https://zindi.africa/users/kingabzpro)
