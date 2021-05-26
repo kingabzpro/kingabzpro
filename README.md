@@ -33,7 +33,5 @@ _**Note:** Please **do not spam** on the above mentioned profiles._
 
 ## Competition Performance
 
-[<img src="Competitionbutton.png" alt="Competitions" width="250">](Kaggle_Competitions_Performance.csv)[<img src="CompetitionbuttonKaggle.png" alt="Kaggle" width="250">](https://www.kaggle.com/kingabzpro)[<img src="CompetitionbuttonDD.png" alt="Kaggle" width="250">](https://www.drivendata.org/users/kingabzpro/)
-
-[<img src="Devpost.png" alt="Kaggle" width="250">](https://devpost.com/kingabzpro?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)[<img src="Zindi.png" alt="Kaggle" width="250">](https://zindi.africa/users/kingabzpro)
+[<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-161616?logo=Kaggle&style=for-the-badge" />](https://www.kaggle.com/kingabzpro)[<img alt="Zindi" src="https://img.shields.io/badge/Zindi-161616?logo=Zotero&style=for-the-badge" />](https://zindi.africa/users/kingabzpro)[<img alt="Devpost" src="https://img.shields.io/badge/Devpost-161616?logo=Devpost&logoColor=blue**&style=for-the-badge" />](ttps://devpost.com/kingabzpro?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)[<img alt="DrivenData" src="https://img.shields.io/badge/DrivenData-161616?logo=Datocms&logoColor=yellow&style=for-the-badge" />](https://www.drivendata.org/users/kingabzpro/)[<img alt="DS" src="https://img.shields.io/badge/DS Competitions-161616?logo=Audioboom&style=for-the-badge" />](Kaggle_Competitions_Performance.csv)[<img alt="Deepnote" src="https://img.shields.io/badge/Deepnote-161616?logo=Deepnote&style=for-the-badge" />](deepnote.com/@abid)
 
