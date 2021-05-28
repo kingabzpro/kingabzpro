@@ -1,7 +1,7 @@
 ## Hey there, I'm Abid!
 <img align='right' src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" width="250">
 
-- 🎓 I got **Bachelors in Telecommunication Engineering Engineering** from **COMSATS** and **Masters In Technology Management** from **Staffordshire University**.
+- 🎓 I got **Bachelors in Telecommunication Engineering** from **COMSATS** and **Masters In Technology Management** from **Staffordshire University**.
 - 💻 I'm looking for an **experience** in field of **Natural language processing**.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Natural language processing** domains.
 - 🎯 Goal (2021): **Participate** in **Data Science and Machine Learning** Competitions and to create **NLP Model "Early detection of Mental illness"**.
