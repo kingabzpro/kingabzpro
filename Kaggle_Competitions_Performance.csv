@@ -1,35 +1,46 @@
 ﻿#,Competition,Rank,Participants,Top %,Organiser,Platform,Deadline,Type,Code/Repo,link
-30,United Nations Millennium Development Goals,26,3274,1,DrivenData,DrivenData,"Feb 5,2021",Timeseries Prediction,https://gitlab.com/drivendata-competitions/united-nations-millennium-development-goals,https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/
-34,Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines,9,1666,1,DrivenData,DrivenData,"Mar 31, 2022",Classification,,https://www.drivendata.org/competitions/66/flu-shot-learning/leaderboard/
+1,2020 Kaggle Machine Learning & Data Science Survey,No-Rank,~1000,No-Rank,Kaggle,Kaggle,"Jan 6, 2021",Analytics ,https://www.kaggle.com/kingabzpro/university-degree-necessary-in-data-science,https://www.kaggle.com/c/kaggle-survey-2020
+2,INGV - Volcanic Eruption Prediction,118,620,20,National Institute of Geophysics and Volcanology,Kaggle,"Jan 6, 2021",Ml/Tabular Prediction,,https://www.kaggle.com/c/predict-volcanic-eruptions-ingv-oe
+3,Tabular Playground Series - Jan 2021,25,1728,2,Kaggle,Kaggle,"Jan 21, 2021",Ml/Regresson,https://www.kaggle.com/kingabzpro/h2o-machine-learning,https://www.kaggle.com/c/tabular-playground-series-jan-2021
+4,I’m Something of a Painter Myself,11,145,8,Kaggle,Kaggle,Ongoing,Use GANs to create art,,https://www.kaggle.com/c/gan-getting-started/overview/prizes
+5,"Contradictory, My Dear Watson",4,69,6,Kaggle,Kaggle,Ongoing,Natural Language Inferencing,,https://www.kaggle.com/c/contradictory-my-dear-watson
+6,Petals to the Metal - Flower Classification on TPU,14,337,5,Kaggle,Kaggle,Ongoing,Image Classification,,https://www.kaggle.com/c/tpu-getting-started
+7,Natural Language Processing with Disaster Tweets,15,1110,2,Kaggle,Kaggle,Ongoing,NLP,https://www.kaggle.com/kingabzpro/nlp-first-submission,https://www.kaggle.com/c/nlp-getting-started
+8,Connect X,11,392,3,Kaggle,Kaggle,Ongoing,Simulations,,https://www.kaggle.com/c/connectx
+9,House Prices - Advanced Regression Techniques,60,4347,2,Kaggle,Kaggle,Ongoing,Ml/Regresson,,https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 10,Titanic - Machine Learning from Disaster,107,16876,1,Kaggle,Kaggle,Ongoing,Classification,,https://www.kaggle.com/c/titanic
+11,Digit Recognizer,34,2174,2,Kaggle,Kaggle,Ongoing,Image Classification,,https://www.kaggle.com/c/digit-recognizer/overview/evaluation
 12,Predict Future Sales,80,10398,1,Kaggle,Kaggle,Ongoing,Ml/Regresson,,https://www.kaggle.com/c/competitive-data-science-predict-future-sales
-33,Reboot: Box-Plots for Education,7,2125,1, EDUCATION RESOURCE STRATEGIES,DrivenData,Ongoing,Classification,,https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/
+13,Hungry Geese,29,245,12,Kaggle,Kaggle,"Aug 9, 2021",Simulations,,https://www.kaggle.com/c/hungry-geese/overview/timeline
+14,Indoor Location & Navigation,241,1170,21,Microsoft Research,Kaggle,"May 17, 2021",Mapping,,https://www.kaggle.com/c/indoor-location-navigation
+15,Human Protein Atlas - Single Cell Classification,20,146,14,Human Protein Atlas,Kaggle,"May 11, 2021",Image Classification,,https://www.kaggle.com/c/hpa-single-cell-image-classification
+16,VinBigData Chest X-ray Abnormalities Detection,129,626,19,Vingroup Big Data Institute,Kaggle,"Mar 30, 2021",Image Classification,,https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection
+17,HuBMAP - Hacking the Kidney,126,1015,13,InnovationDigi,Kaggle,"Feb 1, 2021",Anomaly Detection,,https://www.kaggle.com/c/hubmap-kidney-segmentation
+18,RANZCR CLiP - Catheter and Line Position Challenge,718,1547,47,Royal Australian & NZ College of Radiologists,Kaggle,"Mar 15, 2021",Image Classification,,https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification
+19,WiDS Datathon 2021,8,506,2,Women in Data Science ,Kaggle,"Mar 8, 2021",Classification,https://www.kaggle.com/kingabzpro/automljar-golden-features,https://www.kaggle.com/c/widsdatathon2021
+20,Tabular Playground Series - Feb 2021,18,880,3,Kaggle,Kaggle,"Feb 28,2021",Ml/Regresson,https://www.kaggle.com/kingabzpro/tps-feb-label-encoder-lgbm,https://www.kaggle.com/c/tabular-playground-series-feb-2021/overview
+21,Santa 2020 - The Candy Cane Contest,210,788,27,Kaggle,Kaggle,"Feb 9, 2021",Simulations,,https://www.kaggle.com/c/santa-2020
 22,Jane Street Market Prediction,50,3983,2,Jane Street Group,Kaggle,"Feb 22, 2021",Classification,,https://www.kaggle.com/c/jane-street-market-prediction
 23,"Rock, Paper, Scissors",18,1667,2,Kaggle,Kaggle,"Feb 9, 2021",Simulations,,https://www.kaggle.com/c/rock-paper-scissors
-3,Tabular Playground Series - Jan 2021,25,1728,2,Kaggle,Kaggle,"Jan 21, 2021",Ml/Regresson,https://www.kaggle.com/kingabzpro/h2o-machine-learning,https://www.kaggle.com/c/tabular-playground-series-jan-2021
-19,WiDS Datathon 2021,8,506,2,Women in Data Science ,Kaggle,"Mar 8, 2021",Classification,https://www.kaggle.com/kingabzpro/automljar-golden-features,https://www.kaggle.com/c/widsdatathon2021
-31,DengAI: Predicting Disease Spread,214,9615,2,DrivenData,DrivenData,"Nov 1,2021",Classification,,Competition: DengAI: Predicting Disease Spread (drivendata.org)
-7,Natural Language Processing with Disaster Tweets,15,1110,2,Kaggle,Kaggle,Ongoing,NLP,https://www.kaggle.com/kingabzpro/nlp-first-submission,https://www.kaggle.com/c/nlp-getting-started
-9,House Prices - Advanced Regression Techniques,60,4347,2,Kaggle,Kaggle,Ongoing,Ml/Regresson,,https://www.kaggle.com/c/house-prices-advanced-regression-techniques
-11,Digit Recognizer,34,2174,2,Kaggle,Kaggle,Ongoing,Image Classification,,https://www.kaggle.com/c/digit-recognizer/overview/evaluation
-20,Tabular Playground Series - Feb 2021,18,880,3,Kaggle,Kaggle,"Feb 28,2021",Ml/Regresson,https://www.kaggle.com/kingabzpro/tps-feb-label-encoder-lgbm,https://www.kaggle.com/c/tabular-playground-series-feb-2021/overview
-8,Connect X,11,392,3,Kaggle,Kaggle,Ongoing,Simulations,,https://www.kaggle.com/c/connectx
-6,Petals to the Metal - Flower Classification on TPU,14,337,5,Kaggle,Kaggle,Ongoing,Image Classification,,https://www.kaggle.com/c/tpu-getting-started
-32,Pump it Up: Data Mining the Water Table,491,10175,5,DrivenData,DrivenData,Ongoing,Classification,,https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/25/
-28,MagNet: Model the Geomagnetic Field,40,622,6, NOAA,DrivenData,"Feb 12,2021",Timeseries Prediction,https://gitlab.com/drivendata-competitions/magnet-model-the-geomagnetic-field,https://www.drivendata.org/competitions/73/noaa-magnetic-forecasting/
-5,"Contradictory, My Dear Watson",4,69,6,Kaggle,Kaggle,Ongoing,Natural Language Inferencing,,https://www.kaggle.com/c/contradictory-my-dear-watson
-4,I’m Something of a Painter Myself,11,145,8,Kaggle,Kaggle,Ongoing,Use GANs to create art,,https://www.kaggle.com/c/gan-getting-started/overview/prizes
-29,Wind-dependent Variables: Predict Wind Speeds of Tropical Storms,70,733,9,RADIANT EARTH FOUNDATION,DrivenData,"Feb 2,2021",Image Classification,https://gitlab.com/drivendata-competitions/magnet-model-the-geomagnetic-field,https://www.drivendata.org/competitions/72/predict-wind-speeds/
-13,Hungry Geese,29,245,12,Kaggle,Kaggle,"Aug 9, 2021",Simulations,,https://www.kaggle.com/c/hungry-geese/overview/timeline
-17,HuBMAP - Hacking the Kidney,126,1015,13,InnovationDigi,Kaggle,"Feb 1, 2021",Anomaly Detection,,https://www.kaggle.com/c/hubmap-kidney-segmentation
-18,RANZCR CLiP - Catheter and Line Position Challenge,101,805,13,Royal Australian & NZ College of Radiologists,Kaggle,"Mar 15, 2021",Image Classification,,https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification
-14,Indoor Location & Navigation,31,251,13,Microsoft Research,Kaggle,"May 17, 2021",Mapping,,https://www.kaggle.com/c/indoor-location-navigation
-15,Human Protein Atlas - Single Cell Classification,20,146,14,Human Protein Atlas,Kaggle,"May 11, 2021",Image Classification,,https://www.kaggle.com/c/hpa-single-cell-image-classification
+24,Cassava Leaf Disease Classification,810,3861,21,Makerere University AI Lab,Kaggle,"Feb 18, 2021",Image Classification,,https://www.kaggle.com/c/cassava-leaf-disease-classification
 25,Rainforest Connection Species Audio Detection,186,1143,17,Rainforest Connection,Kaggle,"Feb 17, 2021",Sound Classification,,https://www.kaggle.com/c/rfcx-species-audio-detection
 26,AI4D iCompass Social Media Sentiment Analysis for Tunisian Arabizi,112,567,19,AI4D iCompass,Zindi,"Mar 28,2021",NLP,,https://zindi.africa/competitions/ai4d-icompass-social-media-sentiment-analysis-for-tunisian-arabizi/leaderboard
-16,VinBigData Chest X-ray Abnormalities Detection,113,626,19,Vingroup Big Data Institute,Kaggle,"Mar 30, 2021",Image Classification,,https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection
-2,INGV - Volcanic Eruption Prediction,118,620,20,National Institute of Geophysics and Volcanology,Kaggle,"Jan 6, 2021",Ml/Tabular Prediction,,https://www.kaggle.com/c/predict-volcanic-eruptions-ingv-oe
-24,Cassava Leaf Disease Classification,810,3861,21,Makerere University AI Lab,Kaggle,"Feb 18, 2021",Image Classification,,https://www.kaggle.com/c/cassava-leaf-disease-classification
-21,Santa 2020 - The Candy Cane Contest,210,788,27,Kaggle,Kaggle,"Feb 9, 2021",Simulations,,https://www.kaggle.com/c/santa-2020
 27,Natural Language & Text Analytics API Hackathon,No-Rank,970,No-Rank,Expert.Ai,Devpost,"Feb 22,2021",NLP/API,https://gitlab.com/kingabzpro/Airline-Tweets-NLP,https://expertai-nlapi-012021.devpost.com/
-1,2020 Kaggle Machine Learning & Data Science Survey,No-Rank,~1000,No-Rank,Kaggle,Kaggle,"Jan 6, 2021",Analytics ,https://www.kaggle.com/kingabzpro/university-degree-necessary-in-data-science,https://www.kaggle.com/c/kaggle-survey-2020
+28,MagNet: Model the Geomagnetic Field,40,622,6, NOAA,DrivenData,"Feb 12,2021",Timeseries Prediction,https://gitlab.com/drivendata-competitions/magnet-model-the-geomagnetic-field,https://www.drivendata.org/competitions/73/noaa-magnetic-forecasting/
+29,Wind-dependent Variables: Predict Wind Speeds of Tropical Storms,70,733,9,RADIANT EARTH FOUNDATION,DrivenData,"Feb 2,2021",Image Classification,https://gitlab.com/drivendata-competitions/magnet-model-the-geomagnetic-field,https://www.drivendata.org/competitions/72/predict-wind-speeds/
+30,United Nations Millennium Development Goals,26,3274,1,DrivenData,DrivenData,"Feb 5,2021",Timeseries Prediction,https://gitlab.com/drivendata-competitions/united-nations-millennium-development-goals,https://www.drivendata.org/competitions/1/united-nations-millennium-development-goals/
+31,DengAI: Predicting Disease Spread,214,9615,2,DrivenData,DrivenData,"Nov 1,2021",Classification,,Competition: DengAI: Predicting Disease Spread (drivendata.org)
+32,Pump it Up: Data Mining the Water Table,491,10175,5,DrivenData,DrivenData,Ongoing,Classification,,https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/25/
+33,Reboot: Box-Plots for Education,7,2125,1, EDUCATION RESOURCE STRATEGIES,DrivenData,Ongoing,Classification,,https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/
+34,Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines,9,1666,1,DrivenData,DrivenData,"Mar 31, 2022",Classification,,https://www.drivendata.org/competitions/66/flu-shot-learning/leaderboard/
+35,Tabular Playground Series - May 202,27,1097,2,Kaggle,Kaggle," May 31, 2021",Multi Classification,,https://www.kaggle.com/c/tabular-playground-series-may-2021
+36,Tabular Playground Series - Apr 2021,103,1244,8,Kaggle,Kaggle,"April 30, 2021",Classification,,https://www.kaggle.com/c/tabular-playground-series-apr-2021
+37,Tabular Playground Series - Mar 2021,98,1495,6,Kaggle,Kaggle,"March 31, 2021",Classification,,https://www.kaggle.com/c/tabular-playground-series-mar-2021/leaderboard
+38,Bristol-Myers Squibb – Molecular Translation,251,874,29,Bristol-Myers Squibb,Kaggle,"June 3, 2021",OCR,,https://www.kaggle.com/c/bms-molecular-translation
+39,Identify bird calls in soundscape recordings,267,816,33,Cornell Lab of Ornithology,Kaggle,"June 1, 2021",Audio Classification,,https://www.kaggle.com/c/birdclef-2021/overview/timeline
+40,Shopee - Price Match Guarantee,296,2426,13,Shopee,Kaggle,"May 10, 2021",Image Comparing,,https://www.kaggle.com/c/shopee-product-matching
+41,Hash Code 2021 - Traffic Signaling,9,179,6,Google,Kaggle,"May 25, 2021",Hash,,https://www.kaggle.com/c/hashcode-2021-oqr-extension
+42,Plant Pathology 2021 - FGVC8,66,626,11,FineGrainedVisualCat,Kaggle,"May 26, 2021",Image Classification,,https://www.kaggle.com/c/plant-pathology-2021-fgvc8
+43,Herbarium 2021 - Half-Earth Challenge - FGVC8,26,80,33,FineGrainedVisualCat,Kaggle,"May 26, 2021",Image Classification,,https://www.kaggle.com/c/herbarium-2021-fgvc8
+44,Spring League 2021,35,320,10,Battle Snake,Battle Snake,"May 4, 2021",RL,https://replit.com/@abidaliawan/starter-snake-python,https://play.battlesnake.com/league/spring-league-2021/
+45,Deepnote publishing competition,8/MVP,40,20,Deepnote,Deepnote Community,"May 1,2021",ML/Analytics ,https://deepnote.com/@abid/Trip-Advisor-Data-AnalysisML-9gYLOddsRXmWSKVLyLX_tQ,https://community.deepnote.com/c/announcements/deepnote-publishing-competition-results
