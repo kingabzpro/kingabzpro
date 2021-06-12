@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: kingabzpro/badge-readme@main
+        uses: pemtajo/badge-readme@main
