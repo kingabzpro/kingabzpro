@@ -26,17 +26,19 @@
 | **Docker**: Beginner       | Torch/Reset/Inception V3  |                   |                     |                             |
 | **Airflow**: Beginner      | TPU/GPU                   |                   |                     |                             |
 | **Spark**: Beginner        | WebApp/Streamlit          |                   |                     |                             |
+## Contact me on:
+[<img align="left" alt="abid" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://en.gravatar.com/kingabzpro)
+[<img align="left" alt="abid | Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/df7db8a2c4c2605113121ee72f96ee678406d50d/icons/maildotru.svg" />](mailto:abidaliawan@tutamail.com)
+[<img align="left" alt="abid | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://kingabzpro.medium.com/)
+[<img align="left" alt="abid | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](www.kaggle.com/kingabzpro)
+[<img align="left" alt="abid | Deepnote" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/df7db8a2c4c2605113121ee72f96ee678406d50d/icons/deepnote.svg" />](deepnot.co/@abid)[<img align="left" alt="abid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://mobile.twitter.com/1abidaliawan)
 
+
+<br />
+<br />
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
-## Contact me on:
 
-- Email: abidaliawan@tutamail.com
-- Kaggle: www.kaggle.com/kingabzpro
-- Reddit: www.reddit.com/user/kingabzpro
-
-_**Note:** Please **do not spam** on the above mentioned profiles._
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kingabzpro&show_icons=true)
+<br/>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kingabzpro&show_icons=true)
