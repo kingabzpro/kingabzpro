@@ -27,6 +27,10 @@
 | **Airflow**: Beginner      | TPU/GPU                   |                   |                     |                             |
 | **Spark**: Beginner        | WebApp/Streamlit          |                   |                     |                             |
 
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## Contact me on:
 
 - Email: abidaliawan@tutamail.com
