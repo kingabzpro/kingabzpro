@@ -1,4 +1,4 @@
-## Hey there, I'm Abid!
+## Hey <img src="https://github.com/v1a0/v1a0/blob/master/hi-hand.gif" width="25px">, I'm Abid!
 <img align='right' src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" width="250">
 
 - 🎓 I got **Bachelors in Telecommunication Engineering** from **COMSATS** and **Masters In Technology Management** from **Staffordshire University**.
