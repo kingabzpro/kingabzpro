@@ -5,7 +5,7 @@
 - 💻 I'm looking for an **experience** in field of **Natural language processing**.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Natural language processing** domains.
 - 🎯 Goal (2021): **Participate** in **Data Science and Machine Learning** Competitions and to create **NLP Model "Early detection of Mental illness"**.
-- 📌 Scroll down to see my **Pinned Repositories**.
+- 🎖  Certified Data Scientist.
 
 ## Competition Performance
 
