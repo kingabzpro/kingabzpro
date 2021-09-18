@@ -1,11 +1,13 @@
 ## Hey <img src="https://github.com/v1a0/v1a0/blob/master/hi-hand.gif" width="25px">, I'm Abid!
-<img align='right' src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" width="250">
 
-- 🎓 I got **Bachelors in Telecommunication Engineering** from **COMSATS Institute of Information Technology** and **Masters In Technology Management** from **Staffordshire University**.
+<img src="https://user-images.githubusercontent.com/36753484/133878924-199e010c-7b6e-4d41-96a5-89bc80f1df63.gif" width="550px">
+
+- 🎖  I am a certified data scientist professional, who loves building machine learning models.
+- ✍ I write beginner-friendly articles on data analysis and machine learning. 
 - 💻 I'm looking for an **experience** in field of **Natural language processing**.
 - 🤝🏻 I'm open for collaborations in **Data Science** and **Natural language processing** domains.
 - 🎯 Goal (2021): **Participate** in **Data Science and Machine Learning** Competitions and to create **NLP Model "Early detection of Mental illness"**.
-- 🎖  Certified Data Scientist.
+
 
 ## Competition Performance
 
@@ -27,4 +29,13 @@
 <!--END_SECTION:badges-->
 
 
-<br/>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kingabzpro&show_icons=true)
+<br/>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kingabzpro&show_icons=true&theme=radical)
+
+## Most Read Articles:
+1. [Deploying Your First Machine Learning API](https://towardsdatascience.com/deploying-your-first-machine-learning-api-1649236c695e)
+2. [A New Way of Building Machine Learning Pipelines](https://pub.towardsai.net/a-new-way-of-building-machine-learning-pipelines-54700ed1aded)
+3. [Recycled Energy Saved in Singapore — A Data Analysis Project](https://towardsdatascience.com/annual-recycled-energy-saved-in-singapore-2d6bad49bfb2)
+4. [Top 5 Free Cloud IDEs For Data Science 2021](https://pub.towardsai.net/top-5-free-cloud-ide-for-data-science-2021-9c129745590b)
+5. [Deep learning model to predict mRNA Degradation](https://www.analyticsvidhya.com/blog/2021/09/deep-learning-model-to-predict-mrna-degradation/)
+6. [Gradient Descent: Design Your First Machine Learning Model](https://www.analyticsvidhya.com/blog/2021/08/gradient-descent-design-your-first-machine-learning-model/)
+7. [Julia: A New Age of Data Science](https://towardsdatascience.com/julia-for-data-science-a-new-age-data-science-bf0747a94851)
