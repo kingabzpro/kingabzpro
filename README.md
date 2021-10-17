@@ -30,10 +30,11 @@
 <br/>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kingabzpro&show_icons=true&theme=radical)
 
 ## Most Read Articles:
-1. [Deploying Your First Machine Learning API](https://towardsdatascience.com/deploying-your-first-machine-learning-api-1649236c695e)
-2. [A New Way of Building Machine Learning Pipelines](https://pub.towardsai.net/a-new-way-of-building-machine-learning-pipelines-54700ed1aded)
-3. [Recycled Energy Saved in Singapore — A Data Analysis Project](https://towardsdatascience.com/annual-recycled-energy-saved-in-singapore-2d6bad49bfb2)
-4. [Top 5 Free Cloud IDEs For Data Science 2021](https://pub.towardsai.net/top-5-free-cloud-ide-for-data-science-2021-9c129745590b)
-5. [Deep learning model to predict mRNA Degradation](https://www.analyticsvidhya.com/blog/2021/09/deep-learning-model-to-predict-mrna-degradation/)
-6. [Gradient Descent: Design Your First Machine Learning Model](https://www.analyticsvidhya.com/blog/2021/08/gradient-descent-design-your-first-machine-learning-model/)
-7. [Julia: A New Age of Data Science](https://towardsdatascience.com/julia-for-data-science-a-new-age-data-science-bf0747a94851)
+1. [How to Build Strong Data Science Portfolio as a Beginner](https://www.kdnuggets.com/2021/10/strong-data-science-portfolio-as-beginner.html)
+2. [Deploying Your First Machine Learning API](https://towardsdatascience.com/deploying-your-first-machine-learning-api-1649236c695e)
+3. [A New Way of Building Machine Learning Pipelines](https://pub.towardsai.net/a-new-way-of-building-machine-learning-pipelines-54700ed1aded)
+4. [Recycled Energy Saved in Singapore — A Data Analysis Project](https://towardsdatascience.com/annual-recycled-energy-saved-in-singapore-2d6bad49bfb2)
+5. [Top 5 Free Cloud IDEs For Data Science 2021](https://pub.towardsai.net/top-5-free-cloud-ide-for-data-science-2021-9c129745590b)
+6. [Deep learning model to predict mRNA Degradation](https://www.analyticsvidhya.com/blog/2021/09/deep-learning-model-to-predict-mrna-degradation/)
+7. [Gradient Descent: Design Your First Machine Learning Model](https://www.analyticsvidhya.com/blog/2021/08/gradient-descent-design-your-first-machine-learning-model/)
+
