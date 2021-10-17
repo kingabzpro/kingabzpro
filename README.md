@@ -1,7 +1,5 @@
 ## Hey <img src="https://github.com/v1a0/v1a0/blob/master/hi-hand.gif" width="25px">, I'm Abid!
 
-<img src="https://user-images.githubusercontent.com/36753484/133878924-199e010c-7b6e-4d41-96a5-89bc80f1df63.gif" width="550px">
-
 - 🎖  I am a certified data scientist professional, who loves building machine learning models.
 - ✍ I write beginner-friendly articles on data analysis and machine learning. 
 - 💻 I'm looking for an **experience** in field of **Natural language processing**.
