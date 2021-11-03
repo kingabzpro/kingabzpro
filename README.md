@@ -38,3 +38,4 @@
 6. [Deep learning model to predict mRNA Degradation](https://www.analyticsvidhya.com/blog/2021/09/deep-learning-model-to-predict-mrna-degradation/)
 7. [Gradient Descent: Design Your First Machine Learning Model](https://www.analyticsvidhya.com/blog/2021/08/gradient-descent-design-your-first-machine-learning-model/)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T45YP5N)
