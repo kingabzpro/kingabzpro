@@ -18,10 +18,22 @@
 [<img align="left" alt="abid | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://kingabzpro.medium.com/)
 [<img align="left" alt="abid | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](www.kaggle.com/kingabzpro)
 [<img align="left" alt="abid | Deepnote" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/df7db8a2c4c2605113121ee72f96ee678406d50d/icons/deepnote.svg" />](https://deepnote.com/@abid)[<img align="left" alt="abid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://mobile.twitter.com/1abidaliawan)[<img align="left" alt="abid | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abid-ali-awan-57b466216)[<img align="left" alt="abid | Dev" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/devdotto.svg" />](https://dev.to/kingabzpro)
-
-
 <br />
 <br />
+<p align="left">
+  <img height="100px" src="https://github.com/subinium/kaggle-badge/blob/master/assets/logo.png" align="center" alt="GitHub Readme Stats" />
+  <br/>
+  
+</p>
+
+<p align="left">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/competition" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/dataset" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/notebook" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/discussion" />
+</p>
+
+
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
