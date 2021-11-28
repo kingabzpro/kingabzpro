@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/v1a0/v1a0/blob/master/hi-hand.gif" width="25px">, I'm Abid!
+## Hey 🖐, I'm Abid!
 
 - 🎖  I am a certified data scientist professional, who loves building machine learning models.
 - ✍ I write beginner-friendly articles on data analysis and machine learning. 
