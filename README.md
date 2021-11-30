@@ -1,10 +1,10 @@
 ## Hey 🖐, I'm Abid!
 
 - 🎖  I am a certified data scientist professional, who loves building machine learning models.
-- ✍ I write beginner-friendly articles on data analysis and machine learning. 
-- 💻 I'm looking for an **experience** in field of **Natural language processing**.
-- 🤝🏻 I'm open for collaborations in **Data Science** and **Natural language processing** domains.
-- 🎯 Goal (2021): **Participate** in **Data Science and Machine Learning** Competitions and to create **NLP Model "Early detection of Mental illness"**.
+- ✍ I write blogs on data science and machine learning topics. 
+- 💻 I'm looking for an **experience** in field of **content creating & branding**.
+- 🤝🏻 I'm open for collaborations in **MLOps** and **Applied Machine Learning** domains.
+- 🎯 Goal (2022): Build an NLP startup (exfinite) for early detection of mental illness.
 
 
 ## Competition Performance
