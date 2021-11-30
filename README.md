@@ -39,7 +39,7 @@
 <!--END_SECTION:badges-->
 
 
-<br/>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kingabzpro&show_icons=true&theme=radical)
+<br/>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kingabzpro&show_icons=true&theme=radical) <a href="https://github.com/kingabzpro">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kingabzpro&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Most Read Articles:
 1. [How to Build Strong Data Science Portfolio as a Beginner](https://www.kdnuggets.com/2021/10/strong-data-science-portfolio-as-beginner.html)
