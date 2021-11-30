@@ -43,11 +43,11 @@
 
 ## Most Read Articles:
 1. [How to Build Strong Data Science Portfolio as a Beginner](https://www.kdnuggets.com/2021/10/strong-data-science-portfolio-as-beginner.html)
-2. [Deploying Your First Machine Learning API](https://towardsdatascience.com/deploying-your-first-machine-learning-api-1649236c695e)
-3. [A New Way of Building Machine Learning Pipelines](https://pub.towardsai.net/a-new-way-of-building-machine-learning-pipelines-54700ed1aded)
+2. [Deploying Your First Machine Learning API](https://www.kdnuggets.com/2021/10/deploying-first-machine-learning-api.html)
+3. [How to Ace Data Science Interview by Working on Portfolio Projects](https://www.kdnuggets.com/2021/10/ace-data-science-interview-portfolio-projects.html)
 4. [Recycled Energy Saved in Singapore — A Data Analysis Project](https://towardsdatascience.com/annual-recycled-energy-saved-in-singapore-2d6bad49bfb2)
-5. [Top 5 Free Cloud IDEs For Data Science 2021](https://pub.towardsai.net/top-5-free-cloud-ide-for-data-science-2021-9c129745590b)
-6. [Deep learning model to predict mRNA Degradation](https://www.analyticsvidhya.com/blog/2021/09/deep-learning-model-to-predict-mrna-degradation/)
-7. [Gradient Descent: Design Your First Machine Learning Model](https://www.analyticsvidhya.com/blog/2021/08/gradient-descent-design-your-first-machine-learning-model/)
+5. [A Guide to DVC and DAGsHub for Machine Learning Experiments](https://towardsdatascience.com/a-guide-to-dvc-and-dagshub-for-machine-learning-experiments-fc4d157f07e5)
+6. [A Guide to Machine Learning Pipelines and Orchest](https://www.analyticsvidhya.com/blog/2021/10/a-guide-to-machine-learning-pipelines-and-orchest/)
+7. [Analyzing and Predicting Consumer Engagement](https://towardsdatascience.com/analyzing-and-predicting-consumer-engagement-8b3229f0cbad)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T45YP5N)
