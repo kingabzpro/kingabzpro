@@ -44,10 +44,10 @@
 ## Most Read Articles:
 1. [How to Build Strong Data Science Portfolio as a Beginner](https://www.kdnuggets.com/2021/10/strong-data-science-portfolio-as-beginner.html)
 2. [Deploying Your First Machine Learning API](https://www.kdnuggets.com/2021/10/deploying-first-machine-learning-api.html)
-3. [How to Ace Data Science Interview by Working on Portfolio Projects](https://www.kdnuggets.com/2021/10/ace-data-science-interview-portfolio-projects.html)
+3. [How to Get Certified as a Data Scientist](https://www.kdnuggets.com/2021/12/get-certified-data-science.html)
 4. [Recycled Energy Saved in Singapore — A Data Analysis Project](https://towardsdatascience.com/annual-recycled-energy-saved-in-singapore-2d6bad49bfb2)
-5. [A Guide to DVC and DAGsHub for Machine Learning Experiments](https://towardsdatascience.com/a-guide-to-dvc-and-dagshub-for-machine-learning-experiments-fc4d157f07e5)
+5. [The High Paying Side Hustles for Data Scientists ](https://www.kdnuggets.com/2022/01/high-paying-side-hustles-data-scientists.html)
 6. [A Guide to Machine Learning Pipelines and Orchest](https://www.analyticsvidhya.com/blog/2021/10/a-guide-to-machine-learning-pipelines-and-orchest/)
-7. [Analyzing and Predicting Consumer Engagement](https://towardsdatascience.com/analyzing-and-predicting-consumer-engagement-8b3229f0cbad)
+7. [The Guide to Data Analysis with DuckDB](https://www.analyticsvidhya.com/blog/2021/12/the-guide-to-data-analysis-with-duckdb/)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T45YP5N)
