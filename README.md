@@ -2,7 +2,7 @@
 
 - 🎖  I am a certified data scientist professional, who loves building machine learning models.
 - ✍ I write blogs on data science and machine learning topics. 
-- 💻 I'm looking for an **experience** in field of **content creating & branding**.
+- 💻 I'm looking for an **experience** in the field of **technical copywriting**.
 - 🤝🏻 I'm open for collaborations in **MLOps** and **Applied Machine Learning** domains.
 - 🎯 Goal (2022): Build an NLP startup (exfinite) for early detection of mental illness.
 
