@@ -41,7 +41,7 @@
 
 <br/>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kingabzpro&show_icons=true&theme=radical) <a href="https://github.com/kingabzpro">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kingabzpro&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/kingabzpro)
 
-## Most Read Articles:
+## Most Read Blogs:
 1. [How to Build Strong Data Science Portfolio as a Beginner](https://www.kdnuggets.com/2021/10/strong-data-science-portfolio-as-beginner.html)
 2. [Deploying Your First Machine Learning API](https://www.kdnuggets.com/2021/10/deploying-first-machine-learning-api.html)
 3. [How to Get Certified as a Data Scientist](https://www.kdnuggets.com/2021/12/get-certified-data-science.html)
