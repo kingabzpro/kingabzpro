@@ -1,8 +1,8 @@
 ## Hey 🖐, I'm Abid!
 
 - 🎖  I am a certified data scientist professional, who loves building machine learning models.
-- ✍ I write blogs on data science and machine learning topics. 
-- 💻 I'm looking for an **experience** in the field of **technical copywriting**.
+- ✍ I write blogs on data science and machine learning. 
+- 💻 I'm looking for an **experience** in the field of **technical content creation**.
 - 🤝🏻 I'm open for collaborations in **MLOps** and **Applied Machine Learning** domains.
 - 🎯 Goal (2022): Build an NLP startup (exfinite) for early detection of mental illness.
 
@@ -42,12 +42,12 @@
 <br/>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kingabzpro&show_icons=true&theme=radical) <a href="https://github.com/kingabzpro">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kingabzpro&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/kingabzpro)
 
 ## Most Read Blogs:
-1. [How to Build Strong Data Science Portfolio as a Beginner](https://www.kdnuggets.com/2021/10/strong-data-science-portfolio-as-beginner.html)
-2. [Deploying Your First Machine Learning API](https://www.kdnuggets.com/2021/10/deploying-first-machine-learning-api.html)
+1. [5 Tips for Acing Your First Data Science Interview](https://towardsdatascience.com/5-tips-for-acing-your-first-data-science-interview-dbad5b5959d7)
+2. [How To Find The Best Data Science Remote Jobs](https://kingabzpro.medium.com/how-to-find-the-best-data-science-remote-jobs-a122f22f2f97)
 3. [How to Get Certified as a Data Scientist](https://www.kdnuggets.com/2021/12/get-certified-data-science.html)
-4. [Recycled Energy Saved in Singapore — A Data Analysis Project](https://towardsdatascience.com/annual-recycled-energy-saved-in-singapore-2d6bad49bfb2)
-5. [The High Paying Side Hustles for Data Scientists ](https://www.kdnuggets.com/2022/01/high-paying-side-hustles-data-scientists.html)
+4. [Parallel Processing Large File in Python](https://www.kdnuggets.com/2022/07/parallel-processing-large-file-python.html)
+5. [12 Essential VSCode Extensions for Data Science](https://www.kdnuggets.com/2022/07/12-essential-vscode-extensions-data-science.html)
 6. [A Guide to Machine Learning Pipelines and Orchest](https://www.analyticsvidhya.com/blog/2021/10/a-guide-to-machine-learning-pipelines-and-orchest/)
-7. [The Guide to Data Analysis with DuckDB](https://www.analyticsvidhya.com/blog/2021/12/the-guide-to-data-analysis-with-duckdb/)
+7. [A Beginner’s Guide to Get Productive With FastDS](https://www.analyticsvidhya.com/blog/2022/04/a-beginners-guide-to-get-productive-with-fastds/)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T45YP5N)
