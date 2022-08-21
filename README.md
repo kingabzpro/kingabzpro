@@ -39,7 +39,8 @@
 <!--END_SECTION:badges-->
 
 
-<br/>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kingabzpro&show_icons=true&theme=radical) <a href="https://github.com/kingabzpro">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kingabzpro&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/kingabzpro)
+<br/>![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kingabzpro&show_icons=true&theme=radical) <a href="https://github.com/kingabzpro">
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kingabzpro&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/kingabzpro)-->
 
 ## Most Read Blogs:
 1. [5 Tips for Acing Your First Data Science Interview](https://towardsdatascience.com/5-tips-for-acing-your-first-data-science-interview-dbad5b5959d7)
