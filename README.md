@@ -26,12 +26,7 @@
   
 </p>
 
-<p align="left">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/competition" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/dataset" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/notebook" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/discussion" />
-</p>
+
 
 
 
