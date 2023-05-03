@@ -6,8 +6,6 @@
 - 🤝🏻 I'm open for collaborations in **MLOps** and **NLP** domains.
 - 🎯 Goal (2023): Get better at content management and creation.
 
-
-
 ## Contact me on:
 [<img align="left" alt="abid" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://abidaliawa.com)
 [<img align="left" alt="abid | Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/df7db8a2c4c2605113121ee72f96ee678406d50d/icons/maildotru.svg" />](mailto:abidaliawan@tutamail.com)
@@ -15,7 +13,7 @@
 [<img align="left" alt="abid | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](www.kaggle.com/kingabzpro)
 [<img align="left" alt="abid | Deepnote" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/df7db8a2c4c2605113121ee72f96ee678406d50d/icons/deepnote.svg" />](https://deepnote.com/@abid)[<img align="left" alt="abid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://mobile.twitter.com/1abidaliawan)[<img align="left" alt="abid | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abid-ali-awan-57b466216)[<img align="left" alt="abid | Dev" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/devdotto.svg" />](https://dev.to/kingabzpro)[<img align="left" alt="abid | DataCamp" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/datacamp.svg"/>](https://www.datacamp.com/profile/kingabzpro)[<img align="left" alt="abid | HuggingFace" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/githubsponsors.svg"/>](https://huggingface.co/kingabzpro)
 
-
+<br></br>
 
 ## Most Read Knuggets Blogs:
 1. [7 Machine Learning Portfolio Projects to Boost the Resume](https://www.kdnuggets.com/2022/09/7-machine-learning-portfolio-projects-boost-resume.html)
