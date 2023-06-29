@@ -6,6 +6,20 @@
 - 🤝🏻 I'm open for collaborations in **MLOps** and **NLP** domains.
 - 🎯 Goal (2023): Get better at content management and creation.
 
+<img height="100px" src="https://github.com/subinium/kaggle-badge/raw/master/assets/logo.png" align="center" alt="GitHub Readme Stats" />
+
+</br>
+
+<p>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/competition" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/dataset" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/notebook" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/discussion" />
+</p>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingabzpro%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![subinium](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kingabzpro)
+
 ## Contact me on:
 [<img align="left" alt="abid" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://abidaliawan.com)
 [<img align="left" alt="abid | Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/df7db8a2c4c2605113121ee72f96ee678406d50d/icons/maildotru.svg" />](mailto:abidaliawan@tutamail.com)
