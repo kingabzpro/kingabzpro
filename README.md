@@ -1,6 +1,6 @@
 ## Hey 🖐, I'm Abid!
 
-- 🎖  I am a [certified] (https://www.datacamp.com/profile/kingabzpro) data scientist who loves building machine learning applications.
+- 🎖  I am a [certified](https://www.datacamp.com/profile/kingabzpro) data scientist who loves building machine learning applications.
 - ✍ Currently working as a copywriter and editor. 
 - 💻 I'm looking for an **experience** in the field of **developer advocacy engineer**.
 - 🤝🏻 I'm open for collaborations in **MLOps** and **NLP** domains.
