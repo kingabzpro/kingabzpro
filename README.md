@@ -1,12 +1,10 @@
 ## Hey 🖐, I'm Abid!
 
 - 🎖  I am a [certified](https://www.datacamp.com/profile/kingabzpro) data scientist who loves building machine learning applications.
-- ✍ Currently working as a copywriter and editor. 
-- 💻 I'm looking for an **experience** in the field of **developer advocacy engineer**.
-- 🤝🏻 I'm open for collaborations in **MLOps** and **NLP** domains.
-- 🎯 Goal (2023): Get better at content management and creation.
-
-<img height="100px" src="https://github.com/subinium/kaggle-badge/raw/master/assets/logo.png" align="center" alt="GitHub Readme Stats" />
+- ✍ Currently working as a copywriter and editor in the data science industry. 
+- 💻 I'm looking for an **experience** in the field of **developer advocacy engineer** full-time.
+- 🤝🏻 I'm open for collaborations in **MLOps** and **LLMs** domains.
+- 🎯 Goal (2024): Get better at operations and building stuff.
 
 </br>
 
@@ -29,25 +27,25 @@
 
 <br></br>
 
-## Most Read Knuggets Blogs:
-1. [7 Machine Learning Portfolio Projects to Boost the Resume](https://www.kdnuggets.com/2022/09/7-machine-learning-portfolio-projects-boost-resume.html)
-2. [5 Free Tools For Detecting ChatGPT, GPT3, and GPT2](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html)
-3. [5 Tips for Acing Your First Data Science Interview](https://towardsdatascience.com/5-tips-for-acing-your-first-data-science-interview-dbad5b5959d7)
-4. [OpenChatKit: Open-Source ChatGPT Alternative](https://www.kdnuggets.com/2023/03/openchatkit-opensource-chatgpt-alternative.html)
-5. [How To Find The Best Data Science Remote Jobs](https://kingabzpro.medium.com/how-to-find-the-best-data-science-remote-jobs-a122f22f2f97)
-6. [How to Get Certified as a Data Scientist](https://www.kdnuggets.com/2021/12/get-certified-data-science.html)
-7. [The High Paying Side Hustles for Data Scientists](https://www.kdnuggets.com/2022/01/high-paying-side-hustles-data-scientists.html)
-8. [12 Essential VSCode Extensions for Data Science](https://www.kdnuggets.com/2022/07/12-essential-vscode-extensions-data-science.html)
+## Abid's Most Read KDnuggets Blogs:
+1. [How to Access and Use Gemini API for Free](https://www.kdnuggets.com/how-to-access-and-use-gemini-api-for-free) 
+2. [Top 5 AI Coding Assistants You Must Try](https://www.kdnuggets.com/top-5-ai-coding-assistants-you-must-try)
+3. [OpenAI API for Beginners: Your Easy-to-Follow Starter Guide](https://www.kdnuggets.com/openai-api-for-beginners-your-easy-to-follow-starter-guide)
+4. [10 Advanced Git Techniques](https://www.kdnuggets.com/10-advanced-git-techniques)
+5. [Create Stunning Data Viz in Seconds with ChatGPT](https://www.kdnuggets.com/create-stunning-data-viz-in-seconds-with-chatgpt)
+6. [Running Mixtral 8x7b On Google Colab For Free](https://www.kdnuggets.com/running-mixtral-8x7b-on-google-colab-for-free)
+7. [5 Super Cheat Sheets to Master Data Science](https://www.kdnuggets.com/5-super-cheat-sheets-to-master-data-science)
+8. [3 Ways to Generate Hyper-Realistic Faces Using Stable Diffusion](https://www.kdnuggets.com/3-ways-to-generate-hyper-realistic-faces-using-stable-diffusion)
 
-## Most Read DataCamp Blogs:
-1. [12 GPT-4 Open-Source Alternatives](https://www.datacamp.com/blog/12-gpt4-open-source-alternatives)
-2. [20 Data Analytics Projects for All Levels](https://www.datacamp.com/blog/data-analytics-projects-all-levels)
-3. [The 23 Top Python Interview Questions & Answers](https://www.datacamp.com/blog/top-python-interview-questions-and-answers)
-4. [What is GPT-4 and Why Does it Matter?](https://www.datacamp.com/blog/what-we-know-gpt4)
-5. [5 Projects You Can Build with Generative AI Models (with examples)](https://www.datacamp.com/blog/5-projects-you-can-build-with-generative-ai-models)
-6. [The Top 21 Data Engineering Interview Questions and Answers](https://www.datacamp.com/blog/top-21-data-engineering-interview-questions-and-answers)
-7. [The Top 24 Machine Learning Interview Questions](https://www.datacamp.com/blog/top-machine-learning-interview-questions)
-8. [17 Top MLOps Tools You Need to Know](https://www.datacamp.com/blog/top-mlops-tools)
+## Abid's Most Read DataCamp Blogs:
+1. [Fine-tuning Stable Diffusion XL with DreamBooth and LoRA](https://www.datacamp.com/tutorial/fine-tuning-stable-diffusion-xl-with-dreambooth-and-lora)
+2. [17 Top MLOps Tools You Need to Know](https://www.datacamp.com/blog/top-mlops-tools)
+3. [Fine-Tuning LLaMA 2: A Step-by-Step Guide to Customizing the Large Language Model](https://www.datacamp.com/tutorial/fine-tuning-llama-2)
+4. [12 GPT-4 Open-Source Alternatives](https://www.datacamp.com/blog/12-gpt4-open-source-alternatives)
+5. [20 Data Analytics Projects for All Levels](https://www.datacamp.com/blog/data-analytics-projects-all-levels)
+6. [Mistral 7B Tutorial: A Step-by-Step Guide to Using and Fine-Tuning Mistral 7B](https://www.datacamp.com/tutorial/mistral-7b-tutorial)
+7. [OpenAI Function Calling Tutorial](https://www.datacamp.com/tutorial/open-ai-function-calling-tutorial)
+8. [The Top 24 Machine Learning Interview Questions](https://www.datacamp.com/blog/top-machine-learning-interview-questions)
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T45YP5N)
+
