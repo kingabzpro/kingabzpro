@@ -6,19 +6,8 @@
 - 🤝🏻 I'm open for collaborations in **MLOps** and **LLMs** domains.
 - 🎯 Goal (2024): Get better at operations and building stuff.
 
-</br>
 
-<p>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/competition" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/dataset" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/notebook" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kingabzpro/discussion" />
-</p>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingabzpro%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-![subinium](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kingabzpro)
-
-## Contact me on:
+## Follow me on:
 [<img align="left" alt="abid" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://abidaliawan.com)
 [<img align="left" alt="abid | Email" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/df7db8a2c4c2605113121ee72f96ee678406d50d/icons/maildotru.svg" />](mailto:1abid@duck.com)
 [<img align="left" alt="abid | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@abidaliawan)
