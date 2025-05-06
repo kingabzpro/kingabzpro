@@ -4,7 +4,7 @@
 - ✍ Currently working as a [copywriter](https://muckrack.com/abidaliawan) and editor in the data science industry. 
 - 💻 I'm looking for an **experience** in the field of **developer advocacy engineer** full-time.
 - 🤝🏻 I'm open for collaborations in **MLOps** and **LLMs** domains.
-- 🎯 Goal (2024): Get better at operations and building stuff.
+- 🎯 Goal (2025): Build an MLOps consultancy company.
 
 ## Follow me on:
 [<img align="left" alt="abid" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://abid.work)
