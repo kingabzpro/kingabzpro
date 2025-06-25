@@ -6,6 +6,8 @@
 - 🤝🏻 I'm open for collaborations in **MLOps** and **LLMs** domains.
 - 🎯 Goal (2025): Build an MLOps consultancy company.
 
+<a href="https://gitroll.io/profile/uyEvNhsL5cLPF4TetwjCHFYsgOi33" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uyEvNhsL5cLPF4TetwjCHFYsgOi33?theme=dark" width="600px" alt="GitRoll Profile Badge"/></a>
+
 ## Follow me on:
 [<img align="left" alt="abid" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://abid.work)
 [<img align="left" alt="abid | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@abidaliawan)
