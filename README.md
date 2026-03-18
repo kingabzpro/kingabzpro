@@ -8,8 +8,3 @@
 
 <a href="https://gitroll.io/profile/uyEvNhsL5cLPF4TetwjCHFYsgOi33" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uyEvNhsL5cLPF4TetwjCHFYsgOi33?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 
-## Follow me on:
-[<img align="left" alt="abid" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://abid.work)
-[<img align="left" alt="abid | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@abidaliawan)
-[<img align="left" alt="abid | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />](https://www.kaggle.com/kingabzpro)
-[<img align="left" alt="abid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://mobile.twitter.com/1abidaliawan)[<img align="left" alt="abid | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abid-ali-awan-57b466216)[<img align="left" alt="abid | DataCamp" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/datacamp.svg"/>](https://www.datacamp.com/profile/kingabzpro)[<img align="left" alt="abid | HuggingFace" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/githubsponsors.svg"/>](https://huggingface.co/kingabzpro)[<img align="left" alt="abid | bio link" width="30px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/biolink.svg"/>](https://abidaliawan.bio.link/)
